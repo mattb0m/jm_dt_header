@@ -9,7 +9,7 @@
  *
  * NOTE: Header will look like:
  *    	x-dynaTrace: ID=eef7e6f7-60d4-4e6d-b9f6-0b1df4d8f80c;VU=MyHost_Scenario_1_0;
- *                   NA=GET /uri;SI=JMETER;AN=PP17804;SN=Scenario_1;TE=test.jmx_20180530_122042
+ *                   NA=GET /uri;SI=JMETER;AN=MyHost;SN=Scenario_1;TE=test.jmx_20180530_122042
  *=============================================================================================================================*/
 import java.util.UUID;
 import org.apache.jmeter.util.JMeterUtils;
